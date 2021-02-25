@@ -37,7 +37,7 @@
 			"  constructor(props: I${1:}Props) {",
 			"    super(props);",
 			"",
-			"    this.state = new ${1:}State(${3:args})",
+			"    this.state = new ${1:}State(${3:args});",
 			"  }",
 			"",
 			"  public render() {",
