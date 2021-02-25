@@ -2,7 +2,7 @@
 
 -------------------
 
-This extension contains code snippets for React with Typescript.
+This extension contains code snippets for React with Typescript. It was forked and modified from infeng's https://github.com/infeng/vscode-react-typescript
 
 ## Installation
 
